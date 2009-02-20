@@ -1,0 +1,64 @@
+=== Submit to Any ===
+Contributors: Jonathan Ellse
+Donate link: http://www.jonathanellse.co.cc/donate/
+Tags: bookmark, social bookmarking, stumble, technorati, delicious, digg, rss, traffic
+Requires at least: 2.0
+Tested up to: 2.7.1
+Stable tag: 0.5
+
+
+
+== Description ==
+
+This plugin is for bookmarking your posts into StumbleUpon, Technorati, Digg and Del.icio.us. You have to do nothing but just activate the plugin. It automatically add the bookmarking options just below to your posts.
+Provides options for bookmarking your blog post in stumble, technorati, delicious and digg, and subscribing to the RSS feed.
+
+Features:
+
+* Traffic : This plugin increses your website traffic
+* Looks: Transparent plugin will give your blog a nice look
+* Large, Friendly Icons: Since the bookmarking is implemented with huge images, the chances for bookmarking are very high
+
+**For Example and Details Visit :** http://www.jonathanellse.co.cc/
+
+**My Technical Blog is :** http://www.jjtcomputing.co.uk/blog
+
+== Installation ==
+
+1. Unzip the files 
+1. Upload submit-to-any directory (containing submit-to-any.php file with image files) to the `/wp-content/plugins/` directory
+2. Activate the plugin through the 'Plugins' menu in WordPress
+
+OR
+
+1. Locate it using the Plugin browser function
+2. Click Install
+3. On the "Success!" screen, click Activate.
+
+== Frequently Asked Questions ==
+
+= Should i edit any files? =
+
+No, just activate the plugin.
+
+= Images are not displaying? =
+
+Make sure the path to main plugin file is  /wp-content/plugins/submit-to-any/submit-to-any.php.
+
+== Screenshots ==
+
+1. The plugin in use at jonathanellse.co.cc.  'tags/0.4/submit-to-any_screenshot.png'
+
+== Arbitrary section ==
+
+If you have any queires / complaints regarding this plugin, please feel free to mail me at webmaster@jjtcomputing.co.uk. Thank you
+
+See my blog for  updates [http://www.jonathanellse.co.cc/](http://www.jonathanellse.co.cc/ "Blog") .
+
+> Use **submittoany** and get traffic into your site. *Happy Blogging*
+
+== Changelog ==
+
+0.3 Minor Bug Fixes; added options page
+0.4 Updated images; Fixed bug where submit to any installed in the wrong directory
+0.5 Added Slashdot support
