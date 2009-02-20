@@ -2,18 +2,16 @@
 Contributors: Jonathan Ellse
 Donate link: http://www.jonathanellse.co.cc/donate/
 Tags: bookmark, social bookmarking, stumble, technorati, delicious, digg, rss, traffic
-Description: This plugin is for bookmarking your posts into StumbleUpon, Slahdot, Technorati, Digg and Del.icio.us. You have to do nothing but just activate the plugin. It automatically add the bookmarking options just below to your posts. It also has a stylish button for subscribing to your RSS feed. Pretty visual interface also included![<a href="options-general.php?page=submittoany.php">Settings</a>]
+Description: This plugin is for bookmarking your posts into StumbleUpon, Slahdot, Technorati, Digg and Del.icio.us. [<a href="options-general.php?page=submittoany.php">Settings</a>]
 Requires at least: 2.0
 Tested up to: 2.7.1
 Stable tag: 0.6
 
-This plugin is for bookmarking your posts into StumbleUpon, Slahdot, Technorati, Digg and Del.icio.us. You have to do nothing but just activate the plugin. It automatically add the bookmarking options just below to your posts.
-It also has a stylish button for subscribing to your RSS feed. Pretty visual interface also included!
+This plugin is for bookmarking your posts into StumbleUpon, Slahdot, Technorati, Digg and Del.icio.us.
 
 == Description ==
 
-This plugin is for bookmarking your posts into StumbleUpon, Slahdot, Technorati, Digg and Del.icio.us. You have to do nothing but just activate the plugin. It automatically add the bookmarking options just below to your posts.
-It also has a stylish button for subscribing to your RSS feed. Pretty visual interface also included!
+This plugin is for bookmarking your posts into StumbleUpon, Slahdot, Technorati, Digg and Del.icio.us. You have to do nothing but just activate the plugin. It automatically add the bookmarking options just below to your posts. It also has a stylish button for subscribing to your RSS feed. Pretty visual interface also included!
 
 * Traffic : This plugin increses your website traffic
 * Looks: Transparent plugin will give your blog a nice look
@@ -47,9 +45,9 @@ Make sure the path to main plugin file is  /wp-content/plugins/submit-to-any/sub
 
 == Screenshots ==
 
-1. The plugin in use at jonathanellse.co.cc.  'tags/0.6/submit-to-any_screenshot.png'
+1. The plugin in use at jonathanellse.co.cc.
 
-== Other Notes ==
+== Arbitrary section ==
 
 If you have any queires / complaints regarding this plugin, please feel free to mail me at webmaster@jjtcomputing.co.uk. Thank you
 
@@ -57,18 +55,18 @@ See my blog for  updates [http://www.jonathanellse.co.cc/](http://www.jonathanel
 
 > Use **submittoany** and get traffic into your site. *Happy Blogging*
 
-== Changelog ==
+## Changelog ##
 
 0.3: 
-*Minor Bug Fixes 
-*Added options page
+* Minor Bug Fixes 
+* Added options page
 0.4: 
-*Updated images
-*Fixed bug where submit to any installed in the wrong directory
+* Updated images
+* Fixed bug where submit to any installed in the wrong directory
 0.5: 
-*Added Slashdot support
+* Added Slashdot support
 0.6: 
-*Added Buzz! Support
-*Links now open in a new window
-*Style update
-*Bux fixes
+* Added Buzz! Support
+* Links now open in a new window
+* Style update
+* Bux fixes
