@@ -1,4 +1,4 @@
-=== Submit to Any ===
+=== Submit to Any for Wordpress ===
 Contributors: Ronnie268
 Donate link: http://www.jjtcomputing.co.uk/blog/donate/
 Tags: bookmark, social bookmarking, stumble, technorati, delicious, digg, rss, traffic
@@ -6,7 +6,7 @@ Requires at least: 2.0
 Tested up to: 2.7.1
 Stable tag: 3.1
 
-This plugin is for bookmarking your posts into many popular bookmarking sites and giving readers the chance to subscribe to your feed.
+This plugin is for bookmarking your posts into many popular bookmarking sites and giving readers the chance to subscribe to subscribe to your feed.
 
 == Description ==
 
@@ -41,7 +41,7 @@ No, just activate the plugin.
 
 = Images are not displaying? =
 
-Make sure the path to main plugin file is  /wp-content/plugins/submit-to-any/submit-to-any.php.
+Make sure the path to main plugin file is  /wp-content/plugins/submit-to-any-for-wordpress/submit-to-any.php.
 
 == Screenshots ==
 
@@ -52,5 +52,3 @@ Make sure the path to main plugin file is  /wp-content/plugins/submit-to-any/sub
 If you have any queires / complaints regarding this plugin, please feel free to mail me at webmaster@jjtcomputing.co.uk. Thank you
 
 See my blog for  updates [http://www.jjtcomputing.co.uk/blog/](http://www.jjtcomputing.co.uk/blog/ "Blog") .
-
-For general support, please consider posting on [http://www.jjtforum.co.cc/](http://www.jjtforum.co.cc/ "Blog"), so everyone can benefit from your answer.
