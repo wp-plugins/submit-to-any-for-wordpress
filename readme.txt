@@ -4,7 +4,7 @@ Donate link: http://www.jjtcomputing.co.uk/
 Tags: bookmark, social bookmarking, stumble, technorati, delicious, digg, rss, traffic
 Requires at least: 2.0
 Tested up to: 2.8.6
-Stable tag: 3.1
+Stable tag: 3.2
 
 This plugin is for bookmarking your posts into many popular bookmarking sites and giving readers the chance to subscribe to subscribe to your feed.
 
